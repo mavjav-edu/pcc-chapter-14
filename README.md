@@ -38,4 +38,4 @@ to shorten `__init__()`. The `prep_images()` method could also help `check_play_
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-13)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-15)
+[&#10094; Prev](../../../pcc-chapter-13)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-15)
