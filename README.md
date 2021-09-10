@@ -27,8 +27,8 @@ reappear. Let the player restart the game with this Play button.
 ## TRY IT YOURSELF Ⓑ
 
 <span id="ch14exe3"></span>**14-3. Challenging Target Practice:** Start
-with your work from [Exercise 14-2](../../../pcc_2e/tree/master/chapter_14/README.md#ch14exe2) ([page
-298](../../../pcc_2e/tree/master/chapter_14/README.md#page_298)). Make the target move faster as the game
+with your work from [Exercise 14-2](#ch14exe2) ([page
+298](#page_298)). Make the target move faster as the game
 progresses, and restart at the original speed when the player clicks
 Play.
 
